@@ -1,3 +1,4 @@
+package com.izavasconcelos.bank.exceptions;
 
 public class MinhaExcecao extends Exception{ //checked
 	

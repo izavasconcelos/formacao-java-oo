@@ -1,3 +1,5 @@
+package com.izavasconcelos.bank.exceptions;
+
 public class FluxoComError {
 
 	public static void main(String[] args) {
